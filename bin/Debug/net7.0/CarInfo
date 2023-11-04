@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Brand": "Mazda",
+    "Model": "CX-6"
+  },
+  {
+    "Id": 2,
+    "Brand": "Honda",
+    "Model": "Accord"
+  },
+  {
+    "Id": 3,
+    "Brand": "Mazda",
+    "Model": "Kek"
+  },
+  {
+    "Id": 4,
+    "Brand": "Mazda",
+    "Model": "Jej"
+  },
+  {
+    "Id": 5,
+    "Brand": "Mazda",
+    "Model": "Pep"
+  },
+  {
+    "Id": 6,
+    "Brand": "Lexus",
+    "Model": "LX-470"
+  }
+]
